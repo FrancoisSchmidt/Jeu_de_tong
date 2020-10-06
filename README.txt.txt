@@ -1,0 +1,1 @@
+Pour lancer le jeu, il suffit de lancer le fichier ui.py
